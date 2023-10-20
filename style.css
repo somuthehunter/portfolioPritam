@@ -52,7 +52,7 @@ body{
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url("img/bg.JPG") no-repeat ;
+    background: url("bg.JPG") no-repeat ;
     background-position: cover;
     background-position: center;
     display: flex;
